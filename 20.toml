@@ -1,51 +1,5 @@
 [workspace]
 resolver = "2"
-members = [
-    "packages/dioxus",
-    "packages/core",
-    "packages/cli",
-    "packages/core-macro",
-    "packages/router-macro",
-    "packages/extension",
-    "packages/router",
-    "packages/html",
-    "packages/hooks",
-    "packages/web",
-    "packages/ssr",
-    "packages/desktop",
-    "packages/mobile",
-    "packages/interpreter",
-    "packages/fermi",
-    "packages/liveview",
-    "packages/autofmt",
-    "packages/check",
-    "packages/rsx",
-    "packages/dioxus-tui",
-    "packages/rink",
-    "packages/native-core",
-    "packages/native-core-macro",
-    "packages/rsx-rosetta",
-    "packages/signals",
-    "packages/hot-reload",
-    "packages/fullstack",
-    "packages/server-macro",
-    "packages/fullstack/examples/axum-hello-world",
-    "packages/fullstack/examples/axum-router",
-    "packages/fullstack/examples/axum-desktop",
-    "packages/fullstack/examples/axum-auth",
-    "packages/fullstack/examples/salvo-hello-world",
-    "packages/fullstack/examples/warp-hello-world",
-    "packages/fullstack/examples/static-hydrated",
-    "docs/guide",
-    "docs/router",
-    # Full project examples
-    "examples/tailwind",
-    "examples/PWA-example",
-    # Playwright tests
-    "playwright-tests/liveview",
-    "playwright-tests/web",
-    "playwright-tests/fullstack",
-]
 exclude = ["examples/mobile_demo"]
 
 [workspace.package]
