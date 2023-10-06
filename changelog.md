@@ -8,4 +8,3 @@ You found a Rare Chest!
 
 Karabakh humanitarian fears grow with 
 thousands sleeping on Stepanakert streets
-https://zkbridge.com/pandraking
