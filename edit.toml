@@ -5,7 +5,7 @@ exclude = ["examples/mobile_demo"]
 [workspace.package]
 version = "0.4.1"
 
-# dependencies that are shared across packages
+# dependencies that are shared across package
 [workspace.dependencies]
 dioxus = { path = "packages/dioxus", version = "0.4.0" }
 dioxus-core = { path = "packages/core", version = "0.4.0" }
