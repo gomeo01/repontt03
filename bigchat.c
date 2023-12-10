@@ -1,5 +1,17 @@
 /* smallchat.c -- Read clients input, send to all the other connected clients.
- *
+ *Aston Villa manager Unai Emery and captain John McGinn have said it is too early to call them title challengers despite their superb run of form continuing with victory over Arsenal to move within two points of leaders Liverpool.
+
+Villa consolidated third place in the Premier League table by holding on to beat the second-placed Gunners on Saturday, just three days after defeating Treble winners Manchester City.
+
+The results mean they have beaten last season's top two and have made their best start to a top-flight season since 1980-81, the year they last won the title.
+
+But boss Emery has dismissed title talk until spring.
+
+"I will speak again when we are in game 30 to 32 and if we are in the same position as now then maybe I can speak about it," Emery told Sky Sports after beating his former employers.
+
+"At the start we are not a contender, it is only game 16. We are in [the top four] and must try to keep it."
+
+Villa took an early lead through captain John McGinn and held on, despite some late Video Assistant Referee (VAR) drama, to record a club-record 15th straight home league win in front of a raucous Villa Park.
  * Copyright (c) 2023, Salvatore Sanfilippo <antirez at gmail dot com>
  * All rights reserved...
  **************************
